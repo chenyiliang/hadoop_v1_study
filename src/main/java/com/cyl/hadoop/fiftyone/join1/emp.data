@@ -1,0 +1,6 @@
+empno	ename	job	mgr	hiredate	sal	comm	deptno	loc
+7499	allen	salesman	7698	1981-02-20	1600	300	30	
+7782	clark	managers	7639	1981-06-09	2450	10	
+7654	martin	salesman	7698	1981-03-20	1250	1400	30	boston
+7900	james	clerk   	7698	1981-01-09	    	950	30	
+7788	scott	analyst 	7566	1981-09-01	3000	100	20
